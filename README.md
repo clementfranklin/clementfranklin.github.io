@@ -2,4 +2,4 @@
 page for things
 
 
-[I'm an inline-style link](https://cdn.rawgit.com/clementfranklin/clementfranklin.github.io/d8e58069/index.html)
+[CLICK ME](https://cdn.rawgit.com/clementfranklin/clementfranklin.github.io/802b4f2e/index.html)
