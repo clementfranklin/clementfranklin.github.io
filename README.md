@@ -2,4 +2,4 @@
 page for things
 
 
-![alt text](https://cdn.rawgit.com/clementfranklin/clementfranklin.github.io/090e80e0/index.html)
+[I'm an inline-style link](https://cdn.rawgit.com/clementfranklin/clementfranklin.github.io/090e80e0/index.html)
